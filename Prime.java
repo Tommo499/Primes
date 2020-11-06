@@ -1,10 +1,8 @@
 package com.company;
 import java.util.Scanner;
-
 public class Prime {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
         System.out.print(">>> ");
         int limit = input.nextInt() + 1;
         boolean P = false;
@@ -23,7 +21,6 @@ public class Prime {
                 System.out.println("Prime: " + i);
                 primes++;
             }
-
         }
         System.out.println(primes);
     }
