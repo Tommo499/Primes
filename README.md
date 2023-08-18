@@ -1,2 +1,2 @@
 # Primes
-Primes in every language
+Primes in ~~every~~ some languages
